@@ -1,0 +1,1 @@
+A 3-tier architecture is a well-established software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, the application tier, and the data tier. In AWS, this architecture is implemented using a variety of managed services to ensure scalability, high availability, and security.
